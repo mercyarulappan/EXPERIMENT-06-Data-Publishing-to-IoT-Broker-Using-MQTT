@@ -1,4 +1,4 @@
-# EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
+# EXPERIMENT-05-Data-Publishing-to-IoT-Broker-Using-MQTT3
  ## NAME: MERCY A
  ## REGISTER NUMBER: 212223110027
  ## DEPARTMENT: CSE(IOT)
